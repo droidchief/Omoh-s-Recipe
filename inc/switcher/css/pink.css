@@ -1,0 +1,75 @@
+/*	################################################################
+Theme Name: Vojon
+Theme URI: http://www.themengraph.com/
+Author URI: http://www.zobayer.com/
+Author: Shah Zobayer Ahmed
+Version: 1.0.0
+
+################################################################# */
+
+/* --- BACKGROUND  --------------------- */
+::-moz-selection {
+  background-color: #ff6b6b;
+  color: #fff;
+}
+::-webkit-selection {
+  background-color: #ff6b6b;
+  color: #fff;
+}
+::-o-selection {
+  background-color: #ff6b6b;
+  color: #fff;
+}
+::-khtml-selection {
+  background-color: #ff6b6b;
+  color: #fff;
+}
+::-ms-selection {
+  background-color: #ff6b6b;
+  color: #fff;
+}
+::selection {
+  background-color: #ff6b6b;
+  color: #fff;
+}
+
+/* ALL SELECTOR BACKGROUND */
+.navbar-default .navbar-nav > .active > a:before, .navbar-default .navbar-nav > li > a:hover:before, .owl-theme .owl-controls .owl-page.active span,
+.about-content a, .about-content a:last-child:hover, .vojon-btn:hover, .owl-theme .owl-controls .owl-page.active span,
+.filter-nav li b, .reservation-form button, .filter-nav .active, .filter-nav li:hover, .menu-item h3, .load-more-btn a, .subscribe-form button, .blog-item p, .blog-item a,
+.recipe-section .customNavigation a:hover, .contact-items:hover i, .top-btn a:hover, .slider-item a:hover, #testimonial-carousel .owl-controls .active span, .profile-details, .about-social,
+.message-btn, .subscribe-form button:hover, .blog-meta, .blog-contnet a, nav ul.pagination li.active a, nav ul.pagination  li a:hover,
+.sidebar .widget ul li a span, .recent-post a, .widget-items a:before, .blog-meta span, .author-profile, .blog-comment h3 span, .blog-comment .contact-form input.submit-btn
+{
+    background: #ff6b6b
+}
+
+/* ALL SELECTOR COLOR */
+body .navbar-default .navbar-brand, .section-title-box h1, .title-divider .fa, .best-service:hover i, .best-service:hover h4, .best-service:hover i, .best-service:hover h4, .testimonial-caption h5, .copyright a,
+.footer-social-box ul li a:hover .fa, .about-profile .about-social a:hover i, .sidebar .headline::first-letter, .sidebar .widget ul li a:hover,
+.blog-post-item .blog-meta p b, .blog-post-item p a, .profile-social-media ul li a i, .reservation-form .fa
+{
+    color:#ff6b6b ;
+}
+
+ /* BORDER 1PX SOLID  */
+.home-navigation a, .slider-item a:hover, .owl-theme .owl-controls .owl-page.active, .about-content a, .about-content a:last-child:hover, .reservation-form button,
+.recipe-section .customNavigation a, .contact-items:hover i, .message-btn, .vojon-btn:hover, .load-more-btn a, .contact-box .form-control:focus, .boxed-2 .fixed,
+nav ul.pagination li.active a, nav ul.pagination  li a:hover, .search .form-control:hover, .search .form-control:active, .search .form-control:focus,
+.blog-comment h3, .blog-comment .contact-form .form-control:focus
+{
+    border-color: #ff6b6b
+}
+
+/******************
+ * SWITCHER STYLE *
+ ******************/
+.switcherContent{
+    border-bottom: 1px solid #ff6b6b
+}
+.switcher .switcherContents header,.switcher .switcherShowHide,.tempLayout ul .active-layout,.tempLayout ul li:hover{
+    background: #ff6b6b;
+}
+.tempLayout ul li{
+    border: 1px solid  #ff6b6b
+}
