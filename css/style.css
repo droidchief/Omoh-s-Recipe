@@ -1325,7 +1325,7 @@ video {
 
 .fixed-height {
     overflow-y: scroll;
-    height: 70vh;
+    height: 80vh;
 }
 
 .menu-section {
